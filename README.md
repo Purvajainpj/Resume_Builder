@@ -1,3 +1,3 @@
-# Resume_Builder
+# Resume Builder
 
-This is a Django Project.
+A Django-based web application that simplifies resume creation through an intuitive, user-friendly interface.
