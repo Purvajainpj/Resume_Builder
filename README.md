@@ -1,3 +1,3 @@
 # Resume_Builder
 
-It is a Django Project.
+This is a Django Project.
